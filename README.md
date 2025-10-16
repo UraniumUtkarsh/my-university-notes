@@ -13,22 +13,21 @@ data/
 
 └── UniversityName/
 
-└── CourseName/
+    └── CourseName/
 
-└── BranchName/
+        └── BranchName/
 
-└── SemesterName/
+            └── SemesterName/
 
-└── SubjectName/
+                └── SubjectName/
 
-├── Notes1.pdf
+                    ├── Notes1.pdf
 
-├── Notes2.pdf
-
+                    ├── Notes2.pdf
 └── README.md
 
 </details>
----
+
 
 ## 🧭 Naming Rules (Very Important)
 
